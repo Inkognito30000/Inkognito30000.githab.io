@@ -1,12 +1,14 @@
-*, ::before, ::after {
- margin: 0;
-padding: 0;
-box-sizing: border-box;
+*,
+::before,
+::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
-      
+
 html {
-font-size: 62.5%;
-} 
+  font-size: 62.5%;
+}
 
 body {
   font-family: "Outfit", serif;
@@ -53,9 +55,8 @@ body {
   font-weight: 700;
   font-size: 2.2rem;
   line-height: 1.2;
-  color: #1f314f;  
+  color: #1f314f;
   margin-bottom: 1.6rem;
-  
 }
 
 .subtitle {
